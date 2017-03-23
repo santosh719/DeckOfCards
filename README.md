@@ -19,5 +19,5 @@ all 52 cards of the deck in a random order. If the caller then makes a 53rd call
 dealOneCard(), no card is dealt.
 
 ## Usage
-The test class contains the main method which can be called to test all the functionality
+The test class contains the main method which can be called to test all the functionality. All the java files are in src/main/java.
 
