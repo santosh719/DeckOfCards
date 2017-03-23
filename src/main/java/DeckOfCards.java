@@ -67,6 +67,11 @@ public class DeckOfCards {
         }
     }
 
+    /**
+     * Deals one card from the deck.
+     * If no cards are left then a respective message will be shown else the top card will be printed
+     */
+
     public void dealOneCard(){
         if(remainingCardsInDeck == 0){
             System.out.println("No cards left to deal");

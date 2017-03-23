@@ -11,6 +11,7 @@ public class Card {
         this.faceValues = faceValues;
     }
 
+    //getter methods
     public Suits getSuit() {
         return suit;
     }
@@ -19,6 +20,7 @@ public class Card {
         return faceValues;
     }
 
+    //converting the given card into string
     @Override
     public String toString() {
         // TODO Auto-generated method stub
