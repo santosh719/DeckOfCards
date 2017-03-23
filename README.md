@@ -10,7 +10,7 @@ Deck of Cards ( Design Problem)
 
 
 
-shuffle()​ - shuffle returns no value, but results in the cards in the deck being randomly
+**shuffle()**​ - shuffle returns no value, but results in the cards in the deck being randomly
 permuted.
 
 dealOneCard()​ - returns one card from the deck to the caller. Specifically, a call to
