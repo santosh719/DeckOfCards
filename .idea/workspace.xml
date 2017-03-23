@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0671ea73-a5f0-4e49-8ed5-fc0d6298888f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Card.java" afterPath="$PROJECT_DIR$/src/main/java/Card.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/DeckOfCards.java" afterPath="$PROJECT_DIR$/src/main/java/DeckOfCards.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -46,11 +45,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="DeckOfCards.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DeckOfCards.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/DeckOfCards.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="71" column="101" lean-forward="false" selection-start-line="71" selection-start-column="101" selection-end-line="71" selection-end-column="101" />
+            <state relative-caret-position="339">
+              <caret line="62" column="43" lean-forward="false" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,7 +87,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Card.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Card.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Card.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
@@ -459,8 +458,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Suits.java" />
         <option value="$PROJECT_DIR$/src/main/java/Test.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/DeckOfCards.java" />
         <option value="$PROJECT_DIR$/src/main/java/Card.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DeckOfCards.java" />
       </list>
     </option>
   </component>
@@ -1050,7 +1049,7 @@
       <option name="presentableId" value="Default" />
       <updated>1490259503838</updated>
       <workItem from="1490259509193" duration="5990000" />
-      <workItem from="1490265534840" duration="815000" />
+      <workItem from="1490265534840" duration="893000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1490259659806</created>
@@ -1063,7 +1062,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6805000" />
+    <option name="totallyTimeSpent" value="6883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -1212,16 +1211,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DeckOfCards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="71" column="101" lean-forward="false" selection-start-line="71" selection-start-column="101" selection-end-line="71" selection-end-column="101" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1251,6 +1240,16 @@
         <state relative-caret-position="378">
           <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DeckOfCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="62" column="43" lean-forward="false" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

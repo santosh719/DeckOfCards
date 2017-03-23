@@ -60,7 +60,7 @@ public class DeckOfCards {
             // pick a random index between 0 and remainingCardsInDeck - 1
             newIndex = randIndex.nextInt(this.remainingCardsInDeck);
 
-            // swap cards[i] and cards[newI]
+            // swap current index  and new index
             temp = this.cards.get(i);
             this.cards.add(i,this.cards.get(newIndex));
             this.cards.add(newIndex,temp);
