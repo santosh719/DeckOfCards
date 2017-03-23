@@ -14,13 +14,10 @@ import java.util.Random;
  */
 public class DeckOfCards {
 
-    /*********************** Data members ***********************/
+
     private List<Card> cards = new ArrayList<>();
     private int remainingCardsInDeck;
-
     public static final int DECK_SIZE = 52;
-
-    /*********************** Constructors ***********************/
 
     /**
      * Constructs a new Deck object containing 52 cards.
@@ -37,8 +34,6 @@ public class DeckOfCards {
         }
     }
 
-    /*********************** Methods ***********************/
-
     /**
      * Shuffles the deck (i.e. randomly reorders the cards in the deck).
      * I have implemented two methods to shuffle -
@@ -47,10 +42,11 @@ public class DeckOfCards {
      */
     public void shuffle(){
 
-        /**** first way to shuffle ****/
+        // first way to shuffle
+
         //Collections.shuffle(this.cards);
 
-        /**** second way to shuffle ****/
+        // second way to shuffle
         int newIndex;
         Card temp;
         Random randIndex = new Random();
