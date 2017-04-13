@@ -1,0 +1,10 @@
+-classpath 'D:\\Softwares\\JetBrains\\DeckOfCards\\build\\classes\\main;D:\\Softwares\\JetBrains\\DeckOfCards\\build\\resources\\main'
+-d 'D:\\Softwares\\JetBrains\\DeckOfCards\\build\\docs\\javadoc'
+-doctitle 'DeckOfCards 1.0-SNAPSHOT API'
+-quiet 
+-windowtitle 'DeckOfCards 1.0-SNAPSHOT API'
+'D:\\Softwares\\JetBrains\\DeckOfCards\\src\\main\\java\\Card.java'
+'D:\\Softwares\\JetBrains\\DeckOfCards\\src\\main\\java\\DeckOfCards.java'
+'D:\\Softwares\\JetBrains\\DeckOfCards\\src\\main\\java\\FaceValues.java'
+'D:\\Softwares\\JetBrains\\DeckOfCards\\src\\main\\java\\Suits.java'
+'D:\\Softwares\\JetBrains\\DeckOfCards\\src\\main\\java\\Test.java'
